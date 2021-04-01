@@ -1,0 +1,11 @@
+main: com.automacraft.infinitefirework.InfiniteFireworkMain
+name: InfiniteFirework
+version: 1.0.0
+author: Ameldx
+api-version: 1.16
+
+commands:
+   infinitefirework:
+      description: Access the InfiniteFirework plugin
+   if:
+      description: Alias for the InfiniteFirework plugin
