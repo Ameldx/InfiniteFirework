@@ -1,0 +1,5 @@
+#Set the minimum delay in seconds between uses of the infinite firework. Note that this may contain a decimal (1.5 is valid, for example), but will be rounded down to the closest 20th of a second.
+MinimumDelay: 0
+
+#Should players be notified that the item is on cooldown if they try to use it too fast?
+NotifyOfRecharge: true
